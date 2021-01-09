@@ -10,3 +10,8 @@ This project gives a simple implementation of Sierpinski triangle in 2D and 3D r
 - Visual Studio 2017
 - freeglut-MSVC-3.0.0-2.mp
 
+## Usage
+
+A x64 release is uploaded to this repository, try it free.
+
+To access source code, open `./Sierpinski.sln` with Visual Studio.
